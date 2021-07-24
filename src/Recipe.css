@@ -3,6 +3,11 @@
   text-align: left;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
 }
 
 .recipe-content {
@@ -23,7 +28,8 @@ h5 {
 }
 
 .recipe-image {
-  max-width: 350px;
+  margin: auto;
+  max-width: 330px;
   max-height: 600px;
 }
 
