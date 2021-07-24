@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/cocktails/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/cocktails/static/js/main.ecdb9984.chunk.js",
-    "main.js.map": "/cocktails/static/js/main.ecdb9984.chunk.js.map",
-    "runtime-main.js": "/cocktails/static/js/runtime-main.b5b2aecc.js",
-    "runtime-main.js.map": "/cocktails/static/js/runtime-main.b5b2aecc.js.map",
-    "static/js/2.44aedc0b.chunk.js": "/cocktails/static/js/2.44aedc0b.chunk.js",
-    "static/js/2.44aedc0b.chunk.js.map": "/cocktails/static/js/2.44aedc0b.chunk.js.map",
-    "static/js/3.43bf4ef5.chunk.js": "/cocktails/static/js/3.43bf4ef5.chunk.js",
-    "static/js/3.43bf4ef5.chunk.js.map": "/cocktails/static/js/3.43bf4ef5.chunk.js.map",
+    "main.css": "/cocktails/static/css/main.a4fbd755.chunk.css",
+    "main.js": "/cocktails/static/js/main.6e7bffd8.chunk.js",
+    "main.js.map": "/cocktails/static/js/main.6e7bffd8.chunk.js.map",
+    "runtime-main.js": "/cocktails/static/js/runtime-main.5e98d707.js",
+    "runtime-main.js.map": "/cocktails/static/js/runtime-main.5e98d707.js.map",
+    "static/js/2.608fd94a.chunk.js": "/cocktails/static/js/2.608fd94a.chunk.js",
+    "static/js/2.608fd94a.chunk.js.map": "/cocktails/static/js/2.608fd94a.chunk.js.map",
+    "static/js/3.b1d98072.chunk.js": "/cocktails/static/js/3.b1d98072.chunk.js",
+    "static/js/3.b1d98072.chunk.js.map": "/cocktails/static/js/3.b1d98072.chunk.js.map",
     "index.html": "/cocktails/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/cocktails/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.44aedc0b.chunk.js.LICENSE.txt": "/cocktails/static/js/2.44aedc0b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cocktails/static/media/logo.6ce24c58.svg"
+    "static/css/main.a4fbd755.chunk.css.map": "/cocktails/static/css/main.a4fbd755.chunk.css.map",
+    "static/js/2.608fd94a.chunk.js.LICENSE.txt": "/cocktails/static/js/2.608fd94a.chunk.js.LICENSE.txt",
+    "static/media/image.091f5796.webp": "/cocktails/static/media/image.091f5796.webp",
+    "static/media/image.0b41da32.jpg": "/cocktails/static/media/image.0b41da32.jpg",
+    "static/media/image.14591529.jpg": "/cocktails/static/media/image.14591529.jpg",
+    "static/media/image.2cb6dfc6.webp": "/cocktails/static/media/image.2cb6dfc6.webp",
+    "static/media/image.44e180d4.jpg": "/cocktails/static/media/image.44e180d4.jpg",
+    "static/media/image.8ba259e5.webp": "/cocktails/static/media/image.8ba259e5.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5b2aecc.js",
-    "static/js/2.44aedc0b.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.ecdb9984.chunk.js"
+    "static/js/runtime-main.5e98d707.js",
+    "static/js/2.608fd94a.chunk.js",
+    "static/css/main.a4fbd755.chunk.css",
+    "static/js/main.6e7bffd8.chunk.js"
   ]
 }
